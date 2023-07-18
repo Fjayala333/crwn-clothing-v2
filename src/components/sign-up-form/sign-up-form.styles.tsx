@@ -9,3 +9,4 @@ export const SignUpContainer = styled.div`
     margin: 10px 0;
   }
 `;
+ 
